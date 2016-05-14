@@ -61,4 +61,11 @@ FlowRouter.route('/menu', {
   }
 });
 
-
+FlowRouter.route('/shopping-list', {
+  name: 'shopping-list',
+  action() {
+    BlazeLayout.render('MainLayout', {
+      main: 'ShoppingList'
+    });
+  }
+});
