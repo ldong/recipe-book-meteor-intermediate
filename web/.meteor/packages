@@ -39,6 +39,8 @@ accounts-password
 matb33:bootstrap-glyphicons
 
 zimme:active-route
+
+## Redirect after login callbacks
 gwendall:auth-client-callbacks
 
 # Google Analytics

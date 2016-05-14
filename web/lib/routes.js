@@ -2,6 +2,16 @@
  * Created by ldong on 5/14/16.
  */
 
+if (Meteor.isClient) {
+  Accounts.onLogin(function () {
+    FlowRouter.go('recipe-book');
+  });
+
+  Accounts.onLogout(function () {
+    FlowRouter.go('home');
+  });
+}
+
 FlowRouter.triggers.enter([function(context, redirect){
   if (!Meteor.userId()) {
     FlowRouter.go('home');
