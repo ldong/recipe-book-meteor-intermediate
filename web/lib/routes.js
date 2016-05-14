@@ -8,11 +8,11 @@ FlowRouter.route('/', {
   }
 });
 
-FlowRouter.route('/test', {
-  name: 'test',
+FlowRouter.route('/recipe-book', {
+  name: 'recipe-book',
   action() {
     BlazeLayout.render('MainLayout', {
-      main: 'Test'
+      main: 'Recipes'
     });
   }
 });
