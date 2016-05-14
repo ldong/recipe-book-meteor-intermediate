@@ -44,8 +44,9 @@ gwendall:auth-client-callbacks
 # Google Analytics
 datariot:ganalytics
 
+# For error checking, i.e. check(id, String)
+check
 
 # For Debugging purpose
 # msavin:jetsetter
-# check
 meteortoys:allthings
