@@ -37,7 +37,11 @@ aldeed:autoform
 accounts-ui
 accounts-password
 matb33:bootstrap-glyphicons
-msavin:jetsetter
+
 zimme:active-route
 gwendall:auth-client-callbacks
-check
+
+# For Debugging purpose
+# msavin:jetsetter
+# check
+meteortoys:allthings
