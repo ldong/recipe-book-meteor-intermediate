@@ -51,3 +51,14 @@ FlowRouter.route('/recipe/:id', {
     });
   }
 });
+
+FlowRouter.route('/menu', {
+  name: 'menu',
+  action() {
+    BlazeLayout.render('MainLayout', {
+      main: 'Menu'
+    });
+  }
+});
+
+
