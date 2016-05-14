@@ -16,3 +16,10 @@ Template.Recipes.helpers({
     return Recipes.find({});
   }
 });
+
+
+Template.Recipes.events({
+  'click .new-recipe': function(event, template){
+    Session.set('newRecipe', true);
+  }
+});

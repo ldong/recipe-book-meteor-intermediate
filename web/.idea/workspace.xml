@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6959a4fc-f44e-4ebd-9f0d-3cef25a1cbd5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipe.html" afterPath="$PROJECT_DIR$/client/recipes/Recipe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipe.js" afterPath="$PROJECT_DIR$/client/recipes/Recipe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/NewRecipe.html" afterPath="$PROJECT_DIR$/client/recipes/NewRecipe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipes.html" afterPath="$PROJECT_DIR$/client/recipes/Recipes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipes.js" afterPath="$PROJECT_DIR$/client/recipes/Recipes.js" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +73,7 @@
       <file leaf-file-name="Recipe.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="267">
               <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
@@ -81,24 +82,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recipe.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.html">
+      <file leaf-file-name="NewRecipe.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/recipes/NewRecipe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="110">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShoppingList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/shoppingList/ShoppingList.js">
+      <file leaf-file-name="Recipes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewRecipe.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/recipes/NewRecipe.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recipes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,7 +144,6 @@
         <option value="$PROJECT_DIR$/server/main.js" />
         <option value="$PROJECT_DIR$/collections/recipets.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/client/recipes/NewRecipe.html" />
         <option value="$PROJECT_DIR$/client/index.js" />
         <option value="$PROJECT_DIR$/settings.json" />
         <option value="$PROJECT_DIR$/server/init.js" />
@@ -131,7 +151,6 @@
         <option value="$PROJECT_DIR$/client/partials/Header.html" />
         <option value="$PROJECT_DIR$/client/layouts/HomeLayout.html" />
         <option value="$PROJECT_DIR$/client/layouts/MainLayout.html" />
-        <option value="$PROJECT_DIR$/client/recipes/Recipes.html" />
         <option value="$PROJECT_DIR$/server/publish.js" />
         <option value="$PROJECT_DIR$/client/layouts/Menu.html" />
         <option value="$PROJECT_DIR$/client/menu/Menu.js" />
@@ -141,12 +160,15 @@
         <option value="$PROJECT_DIR$/lib/routes.js" />
         <option value="$PROJECT_DIR$/client/shoppingList/ShoppingList.js" />
         <option value="$PROJECT_DIR$/client/shoppingList/ShoppingList.html" />
-        <option value="$PROJECT_DIR$/client/recipes/Recipes.js" />
         <option value="$PROJECT_DIR$/collections/Recipes.js" />
         <option value="$PROJECT_DIR$/styles.styl" />
         <option value="$PROJECT_DIR$/.meteor/packages" />
         <option value="$PROJECT_DIR$/client/recipes/Recipe.js" />
+        <option value="$PROJECT_DIR$/client/recipes/NewRecipe.js" />
+        <option value="$PROJECT_DIR$/client/recipes/Recipes.js" />
         <option value="$PROJECT_DIR$/client/recipes/Recipe.html" />
+        <option value="$PROJECT_DIR$/client/recipes/NewRecipe.html" />
+        <option value="$PROJECT_DIR$/client/recipes/Recipes.html" />
       </list>
     </option>
   </component>
@@ -458,12 +480,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463249030672</updated>
-      <workItem from="1463249032032" duration="15233000" />
+      <workItem from="1463249032032" duration="15838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15233000" />
+    <option name="totallyTimeSpent" value="15838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="805" extended-state="6" />
@@ -539,14 +561,6 @@
           <folding>
             <marker date="1463253769000" expanded="true" signature="5:59" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/recipes/NewRecipe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,28 +656,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/publish.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
@@ -724,11 +720,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="267">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -742,10 +746,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.html">
+    <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="198">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/recipes/NewRecipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/recipes/NewRecipe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding />
         </state>
       </provider>
