@@ -30,7 +30,7 @@ fastclick
 
 # $.Session.get
 raix:handlebar-helpers
-
+#reactive-var            # Reactive variable for tracker
 
 aldeed:collection2
 aldeed:autoform

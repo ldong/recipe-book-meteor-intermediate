@@ -5,8 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipe.html" afterPath="$PROJECT_DIR$/client/recipes/Recipe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipe.js" afterPath="$PROJECT_DIR$/client/recipes/Recipe.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/Recipes.js" afterPath="$PROJECT_DIR$/collections/Recipes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.styl" afterPath="$PROJECT_DIR$/styles.styl" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="packages" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.meteor/packages">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            <state relative-caret-position="22">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recipe.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Recipe.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="396">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -83,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recipe.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Recipe.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="104">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -147,8 +145,8 @@
         <option value="$PROJECT_DIR$/collections/Recipes.js" />
         <option value="$PROJECT_DIR$/styles.styl" />
         <option value="$PROJECT_DIR$/.meteor/packages" />
-        <option value="$PROJECT_DIR$/client/recipes/Recipe.html" />
         <option value="$PROJECT_DIR$/client/recipes/Recipe.js" />
+        <option value="$PROJECT_DIR$/client/recipes/Recipe.html" />
       </list>
     </option>
   </component>
@@ -460,12 +458,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463249030672</updated>
-      <workItem from="1463249032032" duration="14931000" />
+      <workItem from="1463249032032" duration="15233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14931000" />
+    <option name="totallyTimeSpent" value="15233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="805" extended-state="6" />
@@ -708,19 +706,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.meteor/packages">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/shoppingList/ShoppingList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.meteor/packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -736,19 +744,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="104">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
