@@ -18,3 +18,13 @@ FlowRouter.route('/recipe-book', {
     });
   }
 });
+
+FlowRouter.route('/recipe/:id', {
+  name: 'recipe-book',
+  action() {
+    GAnalytics.pageview();
+    BlazeLayout.render('MainLayout', {
+      main: 'RecipeSingle'
+    });
+  }
+});
