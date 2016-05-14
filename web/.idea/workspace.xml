@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6959a4fc-f44e-4ebd-9f0d-3cef25a1cbd5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/NewRecipe.html" afterPath="$PROJECT_DIR$/client/recipes/NewRecipe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipes.html" afterPath="$PROJECT_DIR$/client/recipes/Recipes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/recipes/Recipes.js" afterPath="$PROJECT_DIR$/client/recipes/Recipes.js" />
-    </list>
+    <list default="true" id="6959a4fc-f44e-4ebd-9f0d-3cef25a1cbd5" name="Default" comment="" />
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="packages" pinned="false" current-in-tab="false">
+      <file leaf-file-name="packages" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.meteor/packages">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="638">
+              <caret line="29" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,7 +109,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recipes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Recipes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/recipes/Recipes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
@@ -480,12 +475,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463249030672</updated>
-      <workItem from="1463249032032" duration="15838000" />
+      <workItem from="1463249032032" duration="15992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15838000" />
+    <option name="totallyTimeSpent" value="15992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="805" extended-state="6" />
@@ -710,14 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.meteor/packages">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/recipes/Recipe.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -776,6 +763,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.meteor/packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
