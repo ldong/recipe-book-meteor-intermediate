@@ -27,6 +27,8 @@ stolinski:stylus-multi
 fortawesome:fontawesome
 spiderable
 fastclick
+
+# $.Session.get
 raix:handlebar-helpers
 
 
