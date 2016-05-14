@@ -41,6 +41,10 @@ matb33:bootstrap-glyphicons
 zimme:active-route
 gwendall:auth-client-callbacks
 
+# Google Analytics
+datariot:ganalytics
+
+
 # For Debugging purpose
 # msavin:jetsetter
 # check

@@ -331,6 +331,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/modules/0.6.1/web.browser/buffer.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules/0.6.1/web.browser/server.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.3/web.browser/modules-runtime.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/datariot_ganalytics/0.2.1/web.browser/packages/datariot:ganalytics.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.3/web.browser/.npm/package/node_modules/install/install.js" />
         <item url="file://$USER_HOME$/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/export.js" />
         <item url="file://$USER_HOME$/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/lodash/lodash.js" />
@@ -722,6 +723,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/modules/0.6.1/web.browser/buffer.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules/0.6.1/web.browser/server.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.3/web.browser/modules-runtime.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/datariot_ganalytics/0.2.1/web.browser/packages/datariot:ganalytics.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.3/web.browser/.npm/package/node_modules/install/install.js" />
       <root url="file://$USER_HOME$/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/export.js" />
       <root url="file://$USER_HOME$/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/lodash/lodash.js" />
